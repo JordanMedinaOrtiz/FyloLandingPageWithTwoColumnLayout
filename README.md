@@ -30,4 +30,4 @@
   <li>Explora la página y observa la implementación de HTML, CSS y Flexbox.</li>
 </ol>
 <p>Este proyecto no solo ha fortalecido mis habilidades fundamentales en desarrollo web, sino que también destaca la integración exitosa de Flexbox en un proyecto práctico y desafiante.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://turepositorio.github.io/FyloLandingPageWithTwoColumnLayout/">aquí</a></p>
+<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/FyloLandingPageWithTwoColumnLayout/">aquí</a></p>
